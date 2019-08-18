@@ -1,6 +1,6 @@
 package indi.wangx.test.thread;
 /**
- * java Thread test 
+ * java Thread test
  * @author 27630
  * @version 2019-08-18
  */
