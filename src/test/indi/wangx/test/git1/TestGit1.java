@@ -17,8 +17,8 @@ public class TestGit1 {
         return testGit1;
     }
 
-    public void setTestGit1(String testGit1) {
-        this.testGit1 = testGit1;
+    public void setTestGit1(String testGit2) {
+        this.testGit1 = testGit2;
     }
 
     private String a3;
