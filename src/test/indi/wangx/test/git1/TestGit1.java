@@ -12,4 +12,8 @@ public class TestGit1 {
     }
     
     private String testGit1;
+    
+    public String getTestGit1() {
+        return testGit1;
+    }
 }
