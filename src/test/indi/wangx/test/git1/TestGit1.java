@@ -21,6 +21,6 @@ public class TestGit1 {
         this.testGit1 = testGit1;
     }
 
-    private String a;
+    private String a3;
 
 }
