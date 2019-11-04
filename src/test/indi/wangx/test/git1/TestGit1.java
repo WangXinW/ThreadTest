@@ -20,4 +20,7 @@ public class TestGit1 {
     public void setTestGit1(String testGit1) {
         this.testGit1 = testGit1;
     }
+
+    private String a;
+
 }
