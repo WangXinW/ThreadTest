@@ -7,7 +7,7 @@ public class TestGit2 {
         return testGit2;
     }
 
-    public void setTestGit2(String testGit2) {
-        this.testGit2 = testGit2;
+    public void setTestGit2(String testGit3) {
+        this.testGit2 = testGit3;
     }
 }
