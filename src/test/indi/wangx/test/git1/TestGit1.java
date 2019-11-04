@@ -10,4 +10,6 @@ public class TestGit1 {
     public void setS(String s) {
         this.s = s;
     }
+    
+    private String testGit1;
 }
