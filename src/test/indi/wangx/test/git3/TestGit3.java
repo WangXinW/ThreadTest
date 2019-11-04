@@ -7,8 +7,8 @@ public class TestGit3 {
         return testGit3;
     }
 
-    public void setTestGit3(String testGit3) {
-        this.testGit3 = testGit3;
+    public void setTestGit3(String testGit4) {
+        this.testGit3 = testGit4;
     }
     
     private String justPull;
