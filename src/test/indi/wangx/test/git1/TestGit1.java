@@ -7,8 +7,8 @@ public class TestGit1 {
         return s;
     }
 
-    public void setS(String s) {
-        this.s = s;
+    public void setS(String s1) {
+        this.s = s1;
     }
     
     private String testGit1;
