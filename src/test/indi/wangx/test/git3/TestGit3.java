@@ -10,4 +10,6 @@ public class TestGit3 {
     public void setTestGit3(String testGit3) {
         this.testGit3 = testGit3;
     }
+    
+    private String justPull;
 }
