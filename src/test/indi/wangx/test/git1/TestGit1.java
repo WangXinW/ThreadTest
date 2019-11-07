@@ -23,4 +23,13 @@ public class TestGit1 {
 
     private String a3;
 
+    private String a5;
+
+    public String getA5() {
+        return a5;
+    }
+
+    public void setA5(String a5) {
+        this.a5 = a5;
+    }
 }
