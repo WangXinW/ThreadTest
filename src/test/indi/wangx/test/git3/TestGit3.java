@@ -16,4 +16,8 @@ public class TestGit3 {
     public void setJustPull(String justPull) {
         this.justPull = justPull;
     }
+
+    public void test() {
+
+    }
 }
